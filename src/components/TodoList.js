@@ -67,8 +67,7 @@ function Todolist() {
       },
     },
   ];
-// {(day) => { const newDay = new Date(day); console.log(day); setDate(newDay)}}
-// onChange={(newDate) => setDate(newDate)}
+  
   return (
 
     <div className="App">
